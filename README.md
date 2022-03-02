@@ -1,3 +1,3 @@
 # CoolDataStructures
 Just some cool data structures
-DataStructures.png
+![alt text](https://github.com/ImCoolestDeveloper/HelloGithub/blob/main/DataStructures.png?raw=true)
